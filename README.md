@@ -8,18 +8,30 @@ Overall, this project enhances code quality, reduces manual review time, and pro
 Tech Stack / Technologies Used:
 
 🧩 Frontend
+
 React — for building the user interface (SPA).
+
 Vite — fast frontend build tool and dev server.
+
 Axios — HTTP client for API requests from frontend to backend.
+
 React Markdown & PrismJS — render and highlight code snippets.
+
 React Simple Code Editor — lightweight code editor UI component.
+
 ESLint + plugins — linting and code quality checks.
+
 JavaScript, HTML, CSS — core languages for building the frontend.
+
 
 
 ⚙️ Backend
 Node.js & Express.js — backend server and REST API framework.
+
 CORS — enables cross‑origin requests between frontend + backend.
+
 dotenv — environment config handling (.env).
+
 @google/generative-ai — Google Generative AI SDK integration used for code analysis/review logic.
+
 JavaScript — server‑side language for backend.
