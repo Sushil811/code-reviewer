@@ -5,7 +5,8 @@ The tool provides feedback on several key aspects of code quality, including rea
 
 Overall, this project enhances code quality, reduces manual review time, and promotes continuous learning and improvement in software development.
 
-Tech Stack / Technologies Used
+Tech Stack / Technologies Used:
+
 🧩 Frontend
 React — for building the user interface (SPA).
 Vite — fast frontend build tool and dev server.
