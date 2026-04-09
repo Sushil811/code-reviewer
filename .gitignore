@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+BackEnd/node_modules/
+Frontend/node_modules/
+
+# Environment Variables
+.env
+BackEnd/.env
+Frontend/.env
+
+# Build outputs
+dist/
+build/
+Frontend/dist/
+
+# IDE / System files
+.vscode/
+.idea/
+.DS_Store
+*.log
+
+# Diagnostic/Scratch files
+scratch/
+BackEnd/scratch/
+temp.js
+temp.md
+test_api.js
+test_backticks.js
+test_prism.js
+test_triple_escape.js

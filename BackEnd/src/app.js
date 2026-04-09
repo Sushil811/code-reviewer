@@ -6,7 +6,7 @@ const app = express();
 
 app.use(cors())
 
-app.use(express.json()) //if we know this line we'll get an error(undefined body)
+app.use(express.json()) // Middleware to parse JSON bodies
 
 app.get('/', (req,res)=>{
     res.send('Hello World')
